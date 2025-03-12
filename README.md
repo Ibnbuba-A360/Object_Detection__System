@@ -9,7 +9,7 @@ This project is a real-time object detection system that leverages deep learning
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/Ibnbuba-A360/object-detection-system.git
+git clone https://github.com/Ibnbuba-A360/Object_Detection_System.git
 
 2. Navigate to the project directory:
 cd object-detection-system
@@ -23,13 +23,14 @@ python src/main.py
 
 
 ## Repository Structure
-object-detection-system/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-├── src/
-    └── main.py
+    ```bash
+    object-detection-system/
+    ├── README.md
+    ├── LICENSE
+    ├── requirements.txt
+    ├── .gitignore
+    ├── src/
+        └── main.py
 
 
 
