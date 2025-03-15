@@ -1,6 +1,6 @@
 # Object Detection System
 
-This project is a real-time object detection system that leverages deep learning (YOLO) and a PyQt6-based graphical user interface. It is designed to detect and recognize objects from live video streams with high accuracy and speed.
+This project is a real-time object detection system that leverages deep learning (YOLO) and a KivyMD-based graphical user interface. It is designed to detect and recognize objects from live video streams with high accuracy and speed.
 
 ## Features
 - **Real-Time Detection:** Processes video frames at high speed using YOLO.
@@ -23,7 +23,7 @@ python src/main.py
 
 
 ## Repository Structure
-    ```bash
+    ```
     object-detection-system/
     ├── README.md
     ├── LICENSE
