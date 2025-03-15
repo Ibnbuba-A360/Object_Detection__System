@@ -4,7 +4,7 @@ This project is a real-time object detection system that leverages deep learning
 
 ## Features
 - **Real-Time Detection:** Processes video frames at high speed using YOLO.
-- **User Interface:** Built with PyQt6 for an intuitive experience.
+- **User Interface:** Built with kivyMD for an intuitive experience.
 - **Robust Performance:** Optimized for various hardware, including desktops and edge devices.
 
 ## Installation
