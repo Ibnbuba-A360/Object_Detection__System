@@ -1,7 +1,7 @@
 
 
 """
-Object detection system by Ibrahim Abubakar Buba
+Object detection system by IBRAHIM ABUBAKAR BUBA and ABDULGANIYU KEHINDE OLANREWAJU
 """
 
 import cv2
